@@ -1,8 +1,9 @@
 # Betting Analytics Project
-To analyze betting data and find trends
-
 ## Objective
-Who would you place an online bet on in the NFL?
+Provide an analysis of NFL betting data to find trends, insights, create visualizations and provide recommendations.
+
+## Aim 
+To provide an edge for bettors placing bets on NFL games.
 
 ## Project Description
 With technological advancements throughout the past decade, online sports betting has become extremely accessible and convenient to those who wish to place wagers. As of 2021, the online sports gambling industry had a market value of nearly $75.5 Billion USD, and a revenue forecast of $205 Billion by 2030. Approximately $2.64 Billion Canadian for that same year. Another main attraction to the concept is variety. Online betting sites offer a wide selection of sports and markets to chose from, but how do you navigate them? For beginners, placing a wager through an online site or app can seem intimidating. This project has been designed to aid in making an informed bet and our group will describe the basics for understanding the terminology and concepts used.
